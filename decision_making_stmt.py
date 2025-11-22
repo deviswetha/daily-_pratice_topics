@@ -35,4 +35,25 @@ else:
     print('yes')
 else:
     print('no')'''
-    
+
+# positive /even/ other 
+
+'''num=int(input('enter the numebr:'))
+
+if num > 0 and num % 2==0:
+    print('positive even')
+else:
+    print('other')'''
+
+'''num = int (input('enter a number:'))
+if num % 3==0  or num % 7==0:
+  print('chiranjeevi')
+else:
+   print('balayya')'''
+
+'''num= int(input('enter a number:'))
+if num %2==0 and num % 3==0  or num % 7==0:
+  print('chiranjeevi')
+else:
+   print('balayya')
+'''
